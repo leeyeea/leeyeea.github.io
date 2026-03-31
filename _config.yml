@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "YiLi"
-description              : 
+description              : "Ph.D student in Computer Science and Technology"
 repository               : "leeyeea/leeyeea.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "YiLi（李毅）"
   avatar           : "images/me.png"
-  bio              : "Ph.D student in Computer Science and Technology"
+  bio              : 
   location         : "Jinhua, China"
   employer         : "Zhejiang Normal University"
   pubmed           : 

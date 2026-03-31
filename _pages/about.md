@@ -84,11 +84,6 @@ I am a Ph.D student in the the School of Computer Science and Technology, Zhejia
 
 
 
-
-
-
-
-
 # 📖 Educations
 - *2023.09 - Now*, Ph.D, Zhejiang Normal University, School of Computer Science and Technology. 
 - *2018.09 - 2021.06*, M.S., Zhejiang Normal University, School of Computer Science and Technology. 
