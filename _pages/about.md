@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ✨ About Me
-
 I am a Ph.D student in the the School of Computer Science and Technology, Zhejiang Normal University, China, advised by Prof. [Xinzhong Zhu](https://xinzhongzhu.github.io/). My research lies at the intersection of Deep Learning and Pattern Recognition, with a primary focus on Object Detectoin. My current work focuses on low-altitude UAV-based object detection, aiming to develop lightweight and efficient models that integrate multi-modal image fusion techniques for robust perception in complex environments. 
 
 # 🔥 News
