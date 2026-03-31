@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "YiLi（李毅）"
   avatar           : "images/me.png"
-  bio              : "Zhejiang Normal University"
+  bio              : "Ph.D Candidate in Computer Science and Technology"
   location         : "Jinhua, China"
-  employer         :
+  employer         : "Zhejiang Normal University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=X156sxUAAAAJ"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
@@ -36,7 +36,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/leeyeea" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
