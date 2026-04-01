@@ -27,9 +27,8 @@ I am a Ph.D student in the School of Computer Science and Technology, Zhejiang N
 
 # 📝 Publications 
 <!-- text start 2026 ipedet -->
-<div class='paper-box'>
-<!-- <div class='paper-box-image'><div><div class="badge">AEI 2026</div><img src='images/papers/202603/ipedet.png' alt="sym" width="80%"></div></div> -->
-<div class='paper-box-image' style="align-self:flex-start; margin-top:5px;"><div><div class="badge">AEI 2026</div><img src='images/papers/202603/ipedet.png' alt="sym" width="80%"></div></div>
+<!-- <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">AEI 2026</div><img src='images/papers/202603/ipedet.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection. <span style="color:#2E8B57;">Advanced Engineering Informatics.</span>  [SCI 1区 TOP] [PDF](https://www.sciencedirect.com/science/article/pii/S1474034626003319)
@@ -38,7 +37,28 @@ IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared 
 
 - This paper proposes IPeDet, a robust infrared pedestrian detector for UAV scenarios that enhances fine-grained feature aggregation to overcome the limitations of traditional visible light methods. The approach combines a lightweight backbone, Large Separable Kernel Attention, Online Convolutional Re-parameterization, and a novel Multi-Path Coordinate Attention mechanism to reduce feature redundancy and improve efficiency. IPeDet establishes a new state-of-the-art for infrared pedestrian detection.
 </div>
+</div> -->
+
+
+<!-- text start 2026 ipedet -->
+<div class='paper-box' style="display:flex; align-items:flex-start; gap:1.5rem; padding:1rem 0;">
+  <div class='paper-box-image' style="flex: 0 0 40%; max-width:40%;">
+    <div style="width:100%;">
+      <div class="badge">AEI 2026</div>
+      <img src='images/papers/202603/ipedet.png' alt="sym" style="width:100%; height:auto; display:block; margin:0;">
+    </div>
+  </div>
+  <div class='paper-box-text' style="flex: 1; padding:0; margin:0;" markdown="1">
+
+IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection. <span style="color:#2E8B57;">Advanced Engineering Informatics.</span>  [SCI 1区 TOP] [PDF](https://www.sciencedirect.com/science/article/pii/S1474034626003319)
+
+**YiLi**<sup>#</sup>, Huiying Xu<sup>#*</sup>, Xinzhongzhu, Hongbo Li<sup>*</sup>, Yiming Sun, Ruidong Wang, Lingling Xu
+
+- This paper proposes IPeDet, a robust infrared pedestrian detector for UAV scenarios that enhances fine-grained feature aggregation to overcome the limitations of traditional visible light methods. The approach combines a lightweight backbone, Large Separable Kernel Attention, Online Convolutional Re-parameterization, and a novel Multi-Path Coordinate Attention mechanism to reduce feature redundancy and improve efficiency. IPeDet establishes a new state-of-the-art for infrared pedestrian detection.
 </div>
+</div>
+
+
 
 <!-- text end -->
 
