@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ✨ About Me
-I am a Ph.D student in the the School of Computer Science and Technology, Zhejiang Normal University, China, advised by Prof. [Xinzhong Zhu](https://xinzhongzhu.github.io/). My research lies at the intersection of Deep Learning and Pattern Recognition, with a primary focus on Object Detectoin. My current work focuses on low-altitude UAV-based object detection, aiming to develop lightweight and efficient models that integrate multi-modal image fusion techniques for robust perception in complex environments. 
+I am a Ph.D student in the School of Computer Science and Technology, Zhejiang Normal University, China, advised by Prof. [Xinzhong Zhu](https://xinzhongzhu.github.io/). My research lies at the intersection of Deep Learning and Pattern Recognition, with a primary focus on Object Detectoin. My current work focuses on low-altitude UAV-based object detection, aiming to develop lightweight and efficient models that integrate multi-modal image fusion techniques for robust perception in complex environments. 
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Our paper entitled "IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection" was accepted by AEI.
@@ -30,7 +30,7 @@ I am a Ph.D student in the the School of Computer Science and Technology, Zhejia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AEI 2026</div><img src='images/papers/202603/ipedet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection [SCI 1区 TOP]](https://www.sciencedirect.com/science/article/pii/S1474034626003319)
+IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection. *<span style="color:#90EE90;">Advanced Engineering Informatics.</span>  [SCI 1区 TOP] [PDF](https://www.sciencedirect.com/science/article/pii/S1474034626003319)
 
 **YiLi**<sup>#</sup>, Huiying Xu<sup>#*</sup>, Xinzhongzhu, Hongbo Li<sup>*</sup>, Yiming Sun, Ruidong Wang, Lingling Xu
 
@@ -44,7 +44,7 @@ I am a Ph.D student in the the School of Computer Science and Technology, Zhejia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC 2025</div><img src='images/papers/202511/btdet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BTDet: Towards lightweight and enhanced feature aggregation network for brain tumor detection [SCI 2区]](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+BTDet: Towards lightweight and enhanced feature aggregation network for brain tumor detection. *<span style="color:#90EE90;">Biomedical Signal Processing and Control.</span> [SCI 2区] [PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **YiLi**, Huiying Xu<sup>*</sup>, Xinzhongzhu, Xiao Huang, Hongbo Li
 
@@ -58,7 +58,7 @@ I am a Ph.D student in the the School of Computer Science and Technology, Zhejia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/papers/202510/kscnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[KSCNet: Exploring KAN and state space model collaboration network for small object detection from UAV imagery [SCI 1区 TOP]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425038552)
+KSCNet: Exploring KAN and state space model collaboration network for small object detection from UAV imagery. *<span style="color:#90EE90;">Expert System with Applications.</span> [SCI 1区 TOP] [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0957417425038552)
 
 **YiLi**, Huiying Xu<sup>*</sup>, Yiming Sun, Pengfei Zhu, Lingling Xu, Xinzhongzhu 
 
@@ -72,7 +72,7 @@ I am a Ph.D student in the the School of Computer Science and Technology, Zhejia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSP 2024</div><img src='images/papers/202409/thdet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[THDet: A Lightweight and Efficient Traffic Helmet Object Detector based on YOLOv8 [SCI 3区]](https://www.sciencedirect.com/science/article/abs/pii/S1051200424003907)
+THDet: A Lightweight and Efficient Traffic Helmet Object Detector based on YOLOv8. *<span style="color:#90EE90;">Digtial Signal Processing.</span> [SCI 3区] [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1051200424003907)
 
 **YiLi**, Huiying Xu<sup>*</sup>, Xinzhongzhu, Xiao Huang, Hongbo Li
 
