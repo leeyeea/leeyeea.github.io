@@ -27,7 +27,9 @@ I am a Ph.D student in the School of Computer Science and Technology, Zhejiang N
 
 # 📝 Publications 
 <!-- text start 2026 ipedet -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AEI 2026</div><img src='images/papers/202603/ipedet.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'>
+<!-- <div class='paper-box-image'><div><div class="badge">AEI 2026</div><img src='images/papers/202603/ipedet.png' alt="sym" width="80%"></div></div> -->
+<div class='paper-box-image' style="align-self:flex-start; margin-top:5px;"><div><div class="badge">AEI 2026</div><img src='images/papers/202603/ipedet.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection. <span style="color:#2E8B57;">Advanced Engineering Informatics.</span>  [SCI 1区 TOP] [PDF](https://www.sciencedirect.com/science/article/pii/S1474034626003319)
