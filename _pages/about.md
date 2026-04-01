@@ -29,71 +29,54 @@ I am a Ph.D student in the School of Computer Science and Technology, Zhejiang N
 <!-- text start 2026 IPedet-->
 <div class='paper-box' style="display: flex; align-items: flex-start; gap: 0; padding: 0.8rem 0;">
   <div class='paper-box-image' style="flex: 0 0 auto; max-width: 25%; display: flex; justify-content: flex-start;">
-    <div>
-      <div class="badge">AEI 2026</div>
-      <img src='images/papers/202603/ipedet.png' alt="sym" style="width: 100%; height: auto; display: block; margin: 0;">
-    </div>
-  </div>
+  <div><div class="badge">AEI 2026</div>
+  <img src='images/papers/202603/ipedet.png' alt="sym" style="width: 100%; height: auto; display: block; margin: 0;"></div></div>
   <div class='paper-box-text' style="flex: 1; padding-left: 1.5rem;" markdown="1">
 
 IPeDet: An end-to-end fine-grained feature aggregation network for UAV infrared pedestrian detection. <span style="color:#2E8B57;">Advanced Engineering Informatics.</span> [PDF](https://www.sciencedirect.com/science/article/pii/S1474034626003319)
+
 <span style="color:#193CB8;">**YiLi**</span><sup>#</sup>, Huiying Xu<sup>#*</sup>, Xinzhongzhu, Hongbo Li<sup>*</sup>, Yiming Sun, Ruidong Wang, Lingling Xu
-</div>
-</div>
+</div></div>
 <!-- text end -->
 
 <!-- text start 2025 btdet-->
 <div class='paper-box' style="display: flex; align-items: flex-start; gap: 0; padding: 0.8rem 0;">
   <div class='paper-box-image' style="flex: 0 0 auto; max-width: 25%; display: flex; justify-content: flex-start;">
-    <div>
-      <div class="badge">BSPC 2025</div>
-      <img src='images/papers/202511/btdet.png' alt="sym" style="width: 100%; height: auto; display: block; margin: 0;">
-    </div>
-  </div>
+  <div><div class="badge">BSPC 2025</div>
+  <img src='images/papers/202511/btdet.png' alt="sym" style="width: 100%; height: auto; display: block; margin: 0;"></div></div>
   <div class='paper-box-text' style="flex: 1; padding-left: 1.5rem;" markdown="1">
 
-BTDet: Towards lightweight and enhanced feature aggregation network for brain tumor detection. <span style="color:#2E8B57;">Biomedical Signal Processing and Control.</span> [PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+BTDet: Towards lightweight and enhanced feature aggregation network for brain tumor detection. <span style="color:#2E8B57;">Biomedical Signal Processing and Control.</span> [PDF](https://www.sciencedirect.com/science/article/abs/pii/S174680942501794X)
 
 <span style="color:#193CB8;">**YiLi**</span>, Huiying Xu<sup>*</sup>, Xinzhongzhu, Xiao Huang, Hongbo Li
-
-</div>
-</div>
+</div></div>
 <!-- text start -->
 
 
 <!-- text start 2025 kscnet-->
 <div class='paper-box' style="display: flex; align-items: flex-start; gap: 0; padding: 0.8rem 0;">
   <div class='paper-box-image' style="flex: 0 0 auto; max-width: 25%; display: flex; justify-content: flex-start;">
-    <div>
-      <div class="badge">ESWA 2025</div>
-      <img src='images/papers/202510/kscnet.png' alt="sym" style="width: 100%; height: auto; display: block; margin: 0;">
-    </div>
-  </div>
+  <div><div class="badge">ESWA 2025</div>
+  <img src='images/papers/202510/kscnet.png' alt="sym" style="width: 100%; height: auto; display: block; margin: 0;"></div></div>
   <div class='paper-box-text' style="flex: 1; padding-left: 1.5rem;" markdown="1">
 
 KSCNet: Exploring KAN and state space model collaboration network for small object detection from UAV imagery. <span style="color:#2E8B57;">Expert System with Applications.</span> [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0957417425038552)
 
 <span style="color:#193CB8;">**YiLi**</span>, Huiying Xu<sup>*</sup>, Yiming Sun, Pengfei Zhu, Lingling Xu, Xinzhongzhu 
-</div>
-</div>
+</div></div>
 <!-- text start -->
 
 <!-- text start 2024 THDet-->
 <div class='paper-box' style="display: flex; align-items: flex-start; gap: 0; padding: 0.8rem 0;">
   <div class='paper-box-image' style="flex: 0 0 auto; max-width: 25%; display: flex; justify-content: flex-start;">
-    <div>
-      <div class="badge">DSP 2024</div>
-      <img src='images/papers/202409/thdet.png' alt="sym" style="width: 100%; height: auto; display: block; margin: 0;">
-    </div>
-  </div>
+  <div><div class="badge">DSP 2024</div>
+  <img src='images/papers/202409/thdet.png' alt="sym" style="width: 100%; height: auto; display: block; margin: 0;"></div></div>
   <div class='paper-box-text' style="flex: 1; padding-left: 1.5rem;" markdown="1">
 
 THDet: A Lightweight and Efficient Traffic Helmet Object Detector based on YOLOv8. <span style="color:#2E8B57;">Digtial Signal Processing.</span> [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1051200424003907)
 
 <span style="color:#193CB8;">**YiLi**</span>, Huiying Xu<sup>*</sup>, Xinzhongzhu, Xiao Huang, Hongbo Li
-
-</div>
-</div>
+</div></div>
 <!-- text start -->
 
 
